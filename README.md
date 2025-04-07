@@ -11,7 +11,7 @@
 
  var paises = ["China", "Portugal", "EUA", "Japão","Alemanha", "Brasil", "Coreia do Sul", "Suiça", "Mexico", "Uruguai","Canada"]
 
- var paisEscolhido = parseInt(prompt("Escolha o numetro do país"))
+ var paisEscolhido = parseInt(prompt("Escolha o número do país"))
 
  //Concaternar
  document.write("país:" + paises[paisEscolhido])
